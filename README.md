@@ -1,4 +1,4 @@
 # Project Euler solutions
 ```bash
-run.sh
+python run.py
 ```
